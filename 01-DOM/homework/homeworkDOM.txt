@@ -1,0 +1,5 @@
+DOM es un documento donde se conectan acciones y funciones con una página web y así interactuan con la web en forma temporal, sin alterar el código original de la página.
+
+DOM element selectors. Es un método fácil y rápido para seleccionar elementos del Nodo y así poder agruparlos en la gestion de acciones dentro del Documento.
+
+DOM Events. Los eventos representan funciones o interacciones básicas del usuario dentro del modelo de representación.
