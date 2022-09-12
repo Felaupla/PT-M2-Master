@@ -1,0 +1,3 @@
+Framework es un conjunto de estilos que se pueden aplicar en los sitios web. Permiten ahorrar tiempo y además contrarrestan la dificultad de implementar estilos en los archivos CSS, que se tornan extensos y poco prácticos.
+Preprocesador: Es una herramienta que permite escribir pseudocódigo de manera que pueda ser traducido a CSS. Las sintaxis varían de acuerdo al preprocesador utilizado.
+Responsive websites. Con la aparición de diferentes tipos y tamaños de dispositivos con acceso a internet y posibilidad de navegar en la web, surgieron problemas de que los sitios no se podían adaptar gráficamente a todos los tamaños.  Para ello se diseñaron características que permite que las web se adapten gráficamente a las pantallas desde donde se accede.
