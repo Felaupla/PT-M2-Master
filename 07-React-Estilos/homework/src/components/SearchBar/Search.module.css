@@ -1,0 +1,23 @@
+.search {background-color: lightgrey;
+    border-color: green;
+    width: auto;
+    border-radius: 6px;
+    color:green;
+};
+
+.input {
+    color:lightgrey ;
+    padding: 5% 5% 5% 5%;
+}
+.searchBar {
+    display: flex;
+    background-color: lightgrey;
+    margin-left: 30%;
+    margin-right: 30%;
+    align-self: space-between;
+    width: auto;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+}
+
